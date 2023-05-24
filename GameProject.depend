@@ -1,0 +1,431 @@
+# depslib dependency file v1.0
+1682480685 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject\main.cpp
+	"LTexture.h"
+	"Game_Utils.h"
+	"Menu.h"
+	"Player.h"
+	"Enemy.h"
+	"Enemy_Array.h"
+	"Collision.h"
+	"Text.h"
+
+1677003285 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject\src\common_function.cpp
+	"Common_Function.h"
+
+1677003931 c:\users\chaka\onedrive\máy tính\sdl2\gameproject\include\common_function.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+
+1677405064 c:\users\chaka\onedrive\máy tính\sdl2\gameproject\include\game.h
+	"LTexture.h"
+	"GameObject.h"
+	"Player.h"
+
+1677035945 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject\src\texture.cpp
+	"Texture.h"
+
+1677035944 c:\users\chaka\onedrive\máy tính\sdl2\gameproject\include\texture.h
+
+1677422980 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject\src\game.cpp
+	"Game.h"
+
+1681413187 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject\src\ltexture.cpp
+	"LTexture.h"
+
+1681412626 c:\users\chaka\onedrive\máy tính\sdl2\gameproject\include\ltexture.h
+	"Game_Utils.h"
+
+1677423096 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject\src\gameobject.cpp
+	"GameObject.h"
+
+1677385722 c:\users\chaka\onedrive\máy tính\sdl2\gameproject\include\gameobject.h
+	"LTexture.h"
+
+1682008533 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject\src\player.cpp
+	"Player.h"
+
+1681410961 c:\users\chaka\onedrive\máy tính\sdl2\gameproject\include\player.h
+	"Game_Utils.h"
+	"LTexture.h"
+	"Bullet.h"
+
+1681895331 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject\src\bullet.cpp
+	"Bullet.h"
+
+1681138818 c:\users\chaka\onedrive\máy tính\sdl2\gameproject\include\bullet.h
+	"LTexture.h"
+	"Game_Utils.h"
+
+1677345887 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.1\main.cpp
+	"Game.h"
+
+1677405064 c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.1\include\game.h
+	"LTexture.h"
+	"GameObject.h"
+	"Player.h"
+
+1677406357 c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.1\include\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<vector>
+
+1677679961 c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.1\include\gameobject.h
+	"LTexture.h"
+
+1677679540 c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.1\include\player.h
+	"GameObject.h"
+	"Bullet.h"
+
+1677421568 c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.1\include\bullet.h
+	"GameObject.h"
+
+1677679616 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.1\src\bullet.cpp
+	"Bullet.h"
+
+1677679969 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.1\src\game.cpp
+	"Game.h"
+
+1677679949 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.1\src\gameobject.cpp
+	"GameObject.h"
+
+1677405668 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.1\src\ltexture.cpp
+	"LTexture.h"
+
+1677680067 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.1\src\player.cpp
+	"Player.h"
+
+1677684706 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.2\main.cpp
+	"Game.h"
+
+1677683713 c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.2\include\game.h
+	"LTexture.h"
+	"GameObject.h"
+	"Player.h"
+	"Enemy.h"
+
+1677406357 c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.2\include\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<vector>
+
+1677947202 c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.2\include\gameobject.h
+	"LTexture.h"
+
+1677685560 c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.2\include\player.h
+	"GameObject.h"
+	"Bullet.h"
+
+1677747371 c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.2\include\bullet.h
+	"GameObject.h"
+
+1677775689 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.2\src\bullet.cpp
+	"Bullet.h"
+
+1677405668 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.2\src\ltexture.cpp
+	"LTexture.h"
+
+1678027521 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.2\src\player.cpp
+	"Player.h"
+
+1678030377 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.2\src\game.cpp
+	"Game.h"
+
+1677682248 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.2\src\gameobject.cpp
+	"GameObject.h"
+
+1677947991 c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.2\include\enemy.h
+	"GameObject.h"
+	"Bullet.h"
+
+1678029743 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.2\src\enemy.cpp
+	"Enemy.h"
+
+1678202086 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.3\src\bullet.cpp
+	"Bullet.h"
+
+1678204758 c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.3\include\bullet.h
+	"LTexture.h"
+
+1678190441 c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.3\include\gameobject.h
+	"LTexture.h"
+
+1678272139 c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.3\include\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<vector>
+
+1678207937 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.3\src\enemy.cpp
+	"Enemy.h"
+
+1678207635 c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.3\include\enemy.h
+	"LTexture.h"
+	"Bullet.h"
+
+1678189809 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.3\src\gameobject.cpp
+	"GameObject.h"
+
+1678203309 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.3\src\ltexture.cpp
+	"LTexture.h"
+
+1678207729 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.3\src\player.cpp
+	"Player.h"
+
+1678207681 c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.3\include\player.h
+	"LTexture.h"
+	"Bullet.h"
+
+1678207888 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.3\main.cpp
+	"LTexture.h"
+	"Player.h"
+	"Enemy.h"
+
+1682480356 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.4\main.cpp
+	"LTexture.h"
+	"Game_Utils.h"
+	"Menu.h"
+	"Player.h"
+	"Enemy.h"
+	"Enemy_Array.h"
+	"Collision.h"
+	"Text.h"
+
+1681412626 c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.4\include\ltexture.h
+	"Game_Utils.h"
+
+1681410961 c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.4\include\player.h
+	"Game_Utils.h"
+	"LTexture.h"
+	"Bullet.h"
+
+1681138818 c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.4\include\bullet.h
+	"LTexture.h"
+	"Game_Utils.h"
+
+1681831742 c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.4\include\enemy.h
+	"Game_Utils.h"
+	"LTexture.h"
+	"Bullet.h"
+	"Player.h"
+
+1681895331 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.4\src\bullet.cpp
+	"Bullet.h"
+
+1681896046 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.4\src\enemy.cpp
+	"Enemy.h"
+
+1681413187 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.4\src\ltexture.cpp
+	"LTexture.h"
+
+1682008533 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.4\src\player.cpp
+	"Player.h"
+
+1681413899 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.4\src\collision.cpp
+	"Collision.h"
+
+1680965703 c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.4\include\collision.h
+	"Enemy.h"
+	"Player.h"
+	"Bullet.h"
+	"Game_Utils.h"
+
+1681293063 c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.4\include\game_utils.h
+	<cstdlib>
+	<iostream>
+	<ctime>
+	<vector>
+	<iomanip>
+	<sstream>
+	<fstream>
+	<cmath>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1680967153 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.4\src\game_utils.cpp
+	"Game_Utils.h"
+
+1682480335 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.4\src\enemy_array.cpp
+	"Enemy_Array.h"
+
+1681057764 c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.4\include\enemy_array.h
+	"Enemy.h"
+	"Game_Utils.h"
+
+1679412418 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.4\src\text.cpp
+	"Text.h"
+
+1679412283 c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.4\include\text.h
+	"Game_Utils.h"
+
+1681049132 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.4\src\menu.cpp
+	"Menu.h"
+
+1680621510 c:\users\chaka\onedrive\máy tính\sdl2\gameproject_v0.4\include\menu.h
+	"LTexture.h"
+	"Game_Utils.h"
+	"Enemy.h"
+	"Player.h"
+	"Bullet.h"
+
+1681293063 c:\users\chaka\onedrive\máy tính\sdl2\gameproject\include\game_utils.h
+	<cstdlib>
+	<iostream>
+	<ctime>
+	<vector>
+	<iomanip>
+	<sstream>
+	<fstream>
+	<cmath>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1682480832 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject\src\collision.cpp
+	"Collision.h"
+
+1680965703 c:\users\chaka\onedrive\máy tính\sdl2\gameproject\include\collision.h
+	"Enemy.h"
+	"Player.h"
+	"Bullet.h"
+	"Game_Utils.h"
+
+1681831742 c:\users\chaka\onedrive\máy tính\sdl2\gameproject\include\enemy.h
+	"Game_Utils.h"
+	"LTexture.h"
+	"Bullet.h"
+	"Player.h"
+
+1681896046 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject\src\enemy.cpp
+	"Enemy.h"
+
+1682480392 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject\src\enemy_array.cpp
+	"Enemy_Array.h"
+
+1681057764 c:\users\chaka\onedrive\máy tính\sdl2\gameproject\include\enemy_array.h
+	"Enemy.h"
+	"Game_Utils.h"
+
+1680967153 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject\src\game_utils.cpp
+	"Game_Utils.h"
+
+1682480843 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject\src\menu.cpp
+	"Menu.h"
+
+1682480863 c:\users\chaka\onedrive\máy tính\sdl2\gameproject\include\menu.h
+	"LTexture.h"
+	"Game_Utils.h"
+	"Enemy.h"
+	"Player.h"
+	"Bullet.h"
+
+1679412418 source:c:\users\chaka\onedrive\máy tính\sdl2\gameproject\src\text.cpp
+	"Text.h"
+
+1679412283 c:\users\chaka\onedrive\máy tính\sdl2\gameproject\include\text.h
+	"Game_Utils.h"
+
+1682480685 source:d:\gameproject\main.cpp
+	"LTexture.h"
+	"Game_Utils.h"
+	"Menu.h"
+	"Player.h"
+	"Enemy.h"
+	"Enemy_Array.h"
+	"Collision.h"
+	"Text.h"
+
+1681412626 d:\gameproject\include\ltexture.h
+	"Game_Utils.h"
+
+1681293063 d:\gameproject\include\game_utils.h
+	<cstdlib>
+	<iostream>
+	<ctime>
+	<vector>
+	<iomanip>
+	<sstream>
+	<fstream>
+	<cmath>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1682480863 d:\gameproject\include\menu.h
+	"LTexture.h"
+	"Game_Utils.h"
+	"Enemy.h"
+	"Player.h"
+	"Bullet.h"
+
+1681831742 d:\gameproject\include\enemy.h
+	"Game_Utils.h"
+	"LTexture.h"
+	"Bullet.h"
+	"Player.h"
+
+1681138818 d:\gameproject\include\bullet.h
+	"LTexture.h"
+	"Game_Utils.h"
+
+1681410961 d:\gameproject\include\player.h
+	"Game_Utils.h"
+	"LTexture.h"
+	"Bullet.h"
+
+1681057764 d:\gameproject\include\enemy_array.h
+	"Enemy.h"
+	"Game_Utils.h"
+
+1680965703 d:\gameproject\include\collision.h
+	"Enemy.h"
+	"Player.h"
+	"Bullet.h"
+	"Game_Utils.h"
+
+1679412283 d:\gameproject\include\text.h
+	"Game_Utils.h"
+
+1681895331 source:d:\gameproject\src\bullet.cpp
+	"Bullet.h"
+
+1682480832 source:d:\gameproject\src\collision.cpp
+	"Collision.h"
+
+1681896046 source:d:\gameproject\src\enemy.cpp
+	"Enemy.h"
+
+1682480392 source:d:\gameproject\src\enemy_array.cpp
+	"Enemy_Array.h"
+
+1680967153 source:d:\gameproject\src\game_utils.cpp
+	"Game_Utils.h"
+
+1681413187 source:d:\gameproject\src\ltexture.cpp
+	"LTexture.h"
+
+1682480843 source:d:\gameproject\src\menu.cpp
+	"Menu.h"
+
+1682008533 source:d:\gameproject\src\player.cpp
+	"Player.h"
+
+1679412418 source:d:\gameproject\src\text.cpp
+	"Text.h"
+
